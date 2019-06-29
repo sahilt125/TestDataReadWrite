@@ -1,0 +1,10 @@
+{
+"AdminCredentials":{
+		"username":"prashant",
+		"password":"test",
+		 "vusername":"benten",
+		 "vpassword":"BenTen@10",
+		 "Error_message":"Invalid username or password.",
+		 "user_name" : "ben Ten"
+	 }
+}
